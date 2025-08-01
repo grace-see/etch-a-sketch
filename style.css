@@ -1,0 +1,9 @@
+div.row {
+    display: flex;
+}
+
+div.square {
+    width: 35px;
+    height: 35px;
+    border: solid black;
+}
