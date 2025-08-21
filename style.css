@@ -17,4 +17,15 @@ div#container {
     flex: auto;
     width: 600px;
     height: 600px;
+    border: solid black;
+    border-width: 1px;
+}
+
+button {
+    margin: 12px;
+    padding: 6px;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    border: solid blue;
 }
