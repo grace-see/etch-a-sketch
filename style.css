@@ -7,6 +7,7 @@ div.row {
 div.square {
     width: 100%;
     border: solid black;
+    background: white;
     border-width: 1px;
 }
 
